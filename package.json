@@ -25,10 +25,10 @@
   "devDependencies": {
     "autoprefixer": "^6.5.3",
     "css-loader": "^0.26.0",
-    "extract-text-webpack-plugin": "^1.0.1",
+    "extract-text-webpack-plugin": "^3.0.2",
     "postcss-loader": "^1.1.1",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
-    "webpack": "^1.13.3"
+    "webpack": "^5.75.0"
   }
 }
